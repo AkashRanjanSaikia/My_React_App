@@ -9,6 +9,7 @@ function App() {
         <p>Hii this is a simple website to deploy on AWS</p>
         <p>This is a new line to test</p>
         <p>Adding a line from local</p>
+        <p>Adding a line from local</p>
       </div>
     </>
   )
