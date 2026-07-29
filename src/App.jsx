@@ -7,6 +7,7 @@ function App() {
       <div>
         <h1>My react App</h1>
         <h1>Good Morning</h1>
+        <h2>From Akash Ranjan Saikia</h2>
       </div>
     </>
   )
