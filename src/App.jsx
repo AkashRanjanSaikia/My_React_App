@@ -6,7 +6,7 @@ function App() {
     <>
       <div>
         <h1>My react App</h1>
-        <h1>Good Night</h1>
+        <h1>Good Morning</h1>
       </div>
     </>
   )
